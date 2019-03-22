@@ -49,7 +49,7 @@ B) Bir yıldan x farklı gün seçilmiştir. Bu günler arasında her aydan 8 g�
 ## Çözüm:
 A) (1 / 3) * C(m, 5) = C(m - 1, 4) ifadesi çözümlendiğinde istenilen "m" değeri 15 olarak bulunur. Aşağıda yer alan programda kullanıcıdan doğru bulunan "m" değeri istenilmektedir. Programda girilen "m" değeri doğru veya yanlış olarak test edilerek kullanıcıya çıktı verilmektedir.
 
-B) P(A) = (C(30, 8) ^ 12)/C(360, x) klavyeden girilen bir yıldaki x farkı gün sayısına göre istenilen durum, tüm duruma bölünerek olasılık değeri hesaplanmaktadır.
+B) P(A) = (C(30, 8) ^ 12) / C(360, x) klavyeden girilen bir yıldaki x farkı gün sayısına göre istenilen durum, tüm duruma bölünerek olasılık değeri hesaplanmaktadır.
 
 ## Açıklamalar:
 C(n, r) = n! / ((n - r)! * r!)
