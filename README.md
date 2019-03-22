@@ -6,7 +6,7 @@
 <img src="https://colab.research.google.com/assets/colab-badge.svg" width="150" height="50" alt="Open In Colab" title = "Combination" align="right"/>
 </a>
 
-<br>
+<br><br>
 
 # Combinatorics
 
