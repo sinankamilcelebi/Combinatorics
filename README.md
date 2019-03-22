@@ -47,7 +47,7 @@ A) X={1,2,3,...,m} pozitif tamsıyılarından tüm 5 elemanlı kümelerinden ü�
 B) Bir yıldan x farklı gün seçilmiştir. Bu günler arasında her aydan 8 gün olma olasılığını bulunuz? (Her ayın 30 günden oluştuğunu kabul ediniz.)
 
 ## Çözüm:
-A) (1 / 3) * C(m, 5) == C(m - 1, 4) ifadesi çözümlendiğinde istenilen "m" değeri 15 olarak bulunur. Aşağıda yer alan programda kullanıcıdan doğru bulunan "m" değeri istenilmektedir. Programda girilen "m" değeri doğru veya yanlış olarak test edilerek kullanıcıya çıktı verilmektedir.
+A) (1 / 3) * C(m, 5) = C(m - 1, 4) ifadesi çözümlendiğinde istenilen "m" değeri 15 olarak bulunur. Aşağıda yer alan programda kullanıcıdan doğru bulunan "m" değeri istenilmektedir. Programda girilen "m" değeri doğru veya yanlış olarak test edilerek kullanıcıya çıktı verilmektedir.
 
 B) P(A) = (C(30, 8) ^ 12)/C(360, x) klavyeden girilen bir yıldaki x farkı gün sayısına göre istenilen durum, tüm duruma bölünerek olasılık değeri hesaplanmaktadır.
 
