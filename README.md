@@ -1,3 +1,13 @@
+<a href="https://colab.research.google.com/github/sinankamilcelebi/Combinatorics/blob/master/Permutation.ipynb">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" width="150" height="50" alt="Open In Colab" title = "Permutation" align="left"/>
+</a>
+
+<a href="https://colab.research.google.com/github/sinankamilcelebi/Combinatorics/blob/master/Combination.ipynb">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" width="150" height="50" alt="Open In Colab" title = "Combination" align="right"/>
+</a>
+
+<br>
+
 # Combinatorics
 
 * @file : Permutation.ipynb and Combination.ipynb
