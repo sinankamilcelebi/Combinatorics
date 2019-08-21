@@ -8,7 +8,7 @@
 
 <br><br>
 
-# Combinatorics
+# Combinatorics (Permutation and Combination)
 
 * @file : Permutation.ipynb and Combination.ipynb
 * @author : Sinan KAMILCELEBI
