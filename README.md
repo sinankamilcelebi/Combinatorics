@@ -59,7 +59,7 @@
 ## Açıklamalar:
 
 <p align = "center">
-<img src = "combination_function.jpg" alt = "Combination Function" title = "Combination Function" width = "600" height = "150" />
+<img src = "combination_function.jpg" alt = "Combination Function" title = "Combination Function" width = "700" height = "150" />
 </p>
 
 __Örnek A__'da; ilk olarak m'nin 5 elemanlı kombinasyonlarının sayısı (1 / 3) ile çarpılır ve bu beş elemanlı kümelerinin üçte birinin 7 rakamını içerdiğini bilindiği için (m - 1)'in 4 elemanlı kombinasyolarının sayısına eşitlenerek istenilen sonuç elde edilir.
